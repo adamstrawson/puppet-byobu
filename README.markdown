@@ -1,5 +1,6 @@
 Puppet Module: Byobu
 ====
+[![Build Status](https://travis-ci.org/adamstrawson/puppet-byobu.png)](https://travis-ci.org/adamstrawson/puppet-byobu)
 
 Overview
 --------
