@@ -1,0 +1,23 @@
+{
+  "name": "adamstrawson-byobu",
+  "version": "0.0.1",
+  "source": "UNKNOWN",
+  "author": "Adam Strawson",
+  "license": "http://adamstrawson.mit-license.org/",
+  "summary": "Puppet Module: Byobu",
+  "description": "The Byobu module installs byobu",
+  "project_page": "https://github.com/adamstrawson/puppet-byobu",
+  "dependencies": [
+
+  ],
+  "types": [
+
+  ],
+  "checksums": {
+    "Gemfile": "c4a766a30c62dcb2cc813a7493e46af8",
+    "Modulefile": "aaef4e283f4473bb419192cf97513fc9",
+    "README.markdown": "e3fdad01730a9168bdc66ea00c51e53d",
+    "Rakefile": "af5750dd9de993a703c55edf5540eaa3",
+    "manifests/init.pp": "a66ef6ce2b96660e198c026e73b5629a"
+  }
+}
