@@ -12,7 +12,7 @@
 #    Installs byobu.
 
 class byobu {
-	package { byobu:
-		ensure	=> latest,
-	}
+    package { 'byobu':
+        ensure => latest,
+    }
 }
