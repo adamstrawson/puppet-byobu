@@ -11,8 +11,10 @@
 #   Actions:
 #    Installs byobu.
 
-class byobu {
+class byobu (
+  $package_ensure = 'present'
+){
     package { 'byobu':
-        ensure => latest,
+        ensure => $package_ensure,
     }
 }
